@@ -11,3 +11,6 @@ Copy them to the wolf and yeti folder in the character folder.
 https://drive.google.com/file/d/1pswvaskZDkS6DM2ZtJ681TqZoSIil_TR/view?usp=share_link
 
 Download, extract and run the exe to start hair simulation
+
+
+[![Hair](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FHPmW8tjrOFM)](https://youtu.be/HPmW8tjrOFM)
